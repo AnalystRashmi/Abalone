@@ -1,5 +1,7 @@
 # Abalone
 
+Abalone is a common name for any of a group of small to very large sea snails.
+
 Title of Database: Abalone data
 
 Number of Instances: 4177
@@ -25,5 +27,4 @@ brief description
 
 
   
-  
-From the above description of the dataset,objective is to predict the Sex of abalone using Logistic Regression Classifier
+  From the above description of the dataset,objective is to predict the Sex of abalone using Logistic Regression Classifier and given features.
